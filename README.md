@@ -1,5 +1,5 @@
 # P.T
-Playable Teaser of the game #### Dungeon Escape developed using C++ and Unreal Engine 4 for Windows PC
+Playable Teaser(P.T) of the game Dungeon Escape developed using C++ and Unreal Engine 4 for Windows PC
 
 ![image](https://user-images.githubusercontent.com/51410810/96278905-b26eaf80-0ff3-11eb-9f31-e3ecd40a45ea.png)
 ![image](https://user-images.githubusercontent.com/51410810/96279054-d6ca8c00-0ff3-11eb-8b31-4ffa798bbf9d.png)
